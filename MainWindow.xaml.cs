@@ -24,5 +24,10 @@ namespace GitHubTest
         {
             InitializeComponent();
         }
+
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            lblText.Content = "Hello world!";
+        }
     }
 }
