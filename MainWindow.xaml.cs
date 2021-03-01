@@ -29,14 +29,5 @@ namespace GitHubTest
         {
             lblText.Content = "Hello world!";
         }
-
-        int count;
-
-        private void btnCount_Click(object sender, RoutedEventArgs e)
-        {
-            count++;
-
-            lblCount.Content = count.ToString();
-        }
     }
 }

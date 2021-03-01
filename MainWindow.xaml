@@ -9,8 +9,6 @@
     <Grid>
         <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="117,88,0,0" VerticalAlignment="Top" Width="146" Click="btnUpdate_Click"/>
         <Label x:Name="lblText" Content="Label" HorizontalAlignment="Left" Margin="117,156,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="btnCount" Content="Count" HorizontalAlignment="Left" Margin="117,238,0,0" VerticalAlignment="Top" Width="121" Click="btnCount_Click"/>
-        <Label x:Name="lblCount" Content="Label" HorizontalAlignment="Left" Margin="362,240,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
